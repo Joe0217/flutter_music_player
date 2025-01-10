@@ -4,7 +4,7 @@ A simple Flutter music player.
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Joe0217/flutterMusicPlayer.git
+git clone https://github.com/Joe0217/flutter_music_player.git
 
 # 进入项目目录
 cd flutter_music_player
